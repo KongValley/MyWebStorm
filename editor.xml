@@ -3,9 +3,23 @@
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="SimHei" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="f06292" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\btbd\b.*">
+      <option name="FOREGROUND" value="54cc40" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bmark\b.*">
+      <option name="FOREGROUND" value="fb8c00" />
+    </pattern>
   </component>
 </application>
