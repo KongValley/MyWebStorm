@@ -4,7 +4,7 @@
     <property name="created">2018-12-04T10:36:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-02-15T22:21:17</property>
+    <property name="modified">2019-02-18T19:30:14</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,7 +17,14 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="SimHei" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
