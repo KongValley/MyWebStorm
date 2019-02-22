@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jsdom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/node" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -13,6 +17,10 @@
       <SOURCES />
     </library>
     <library name="@types/sass-webpack-plugin" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/vue-select" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>

@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="Vue" injector-id="xml">
+      <display-name>input/@@focus</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("@focus")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
